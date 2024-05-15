@@ -17,3 +17,6 @@ O layout encontra-se em construção... Mas você pode conferir seu desenvolvime
  Slugify
  Entres outros dependendo do projeto.
 ```
+
+### UI/UX
+A imagem abaixo e só uma amostra e você pode ver o desenvolvimento em tempo real atraves do Figma, só seguir o link acima!![BISTRO _ DESKTOP](https://github.com/loopsdesenvolvedor/bistro-bar/assets/73365089/9ab1cf27-1386-46de-b50b-4001d5d697e1)
