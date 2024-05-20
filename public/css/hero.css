@@ -1,23 +1,24 @@
 #hero {
   width: 100%;
   height: auto;
+  background: url("../img/bg-hero.jpg"), rgba(12, 14, 15, 0.7) no-repeat;
+  background-blend-mode: overlay;
+  background-position: center;
+  background-size: cover;
   border-bottom: 1px solid var(--color-border);
 
   > div {
     width: 100%;
+    max-width: 1078px;
+    margin: 0 auto;
     height: 57rem;
     padding: 0 2rem;
-    background: url("../img/bg-hero.jpg"), rgba(12, 14, 15, 0.7) no-repeat;
-    background-blend-mode: overlay;
-    background-position: center;
-    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
 
     > div {
       width: 100%;
-      max-width: 54.4rem;
       height: 100%;
       padding: 0 2rem;
       display: flex;
@@ -108,15 +109,21 @@
     }
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 1024px) {
     > div {
+      margin-top: 6rem;
       padding-top: 6rem;
-      height: 57rem;
+      padding: 0;
+      height: auto;
       display: flex;
       align-items: center;
-      justify-content: center;
+      justify-content: space-between;
+
       > div {
+        width: 80rem;
+        height: 57rem;
         align-items: flex-start;
+        justify-content: center;
 
         h1 {
           &::before {
@@ -125,6 +132,7 @@
         }
 
         > p {
+          max-width: 60rem;
           text-align: left;
         }
       }
@@ -173,6 +181,7 @@
           gap: 0.6rem;
 
           > label {
+            line-height: 1.4rem;
             font-size: 1.4rem;
             color: var(--color-white-80);
           }
@@ -186,6 +195,7 @@
             color: var(--color-text);
             font-size: 1.4rem;
             outline: none;
+            margin-bottom: 1rem;
           }
 
           input[type="date"]::-webkit-calendar-picker-indicator,
@@ -211,7 +221,7 @@
             background-color: var(--color-green-80);
             border: 1px solid var(--color-green-80);
             color: var(--color-black);
-            font-size: 1.2rem;
+            font-size: 1.4rem;
             font-weight: 800;
             text-transform: uppercase;
             border-radius: 0.4rem;
