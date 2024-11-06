@@ -27,3 +27,9 @@ O layout e design do aplicativo estão disponíveis no Figma. Você pode acessar
 ## Objetivo
 
 Este projeto serve como uma demonstração de como integrar funcionalidades essenciais para um aplicativo de restaurante/bar, combinando conhecimentos de desenvolvimento front-end e back-end.
+
+
+![image_13-removebg-preview](https://github.com/user-attachments/assets/36f4a484-2468-44e5-95c3-4dc37d5fe578)
+
+[Veja como aplicativo esta ficando diretamente no Figma](https://www.figma.com/proto/57k6KdVe2l6uUX1TmDWkAl/bistro-bar?node-id=683-556&node-type=canvas&t=IeET4ITv6XzDdYvv-0&scaling=scale-down&content-scaling=fixed&page-id=350%3A653)
+
