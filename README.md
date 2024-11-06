@@ -66,7 +66,7 @@
 
 - **Web (Next.js)**: Para rodar a versão web do projeto, vá até a pasta `web` e execute:
     ```bash
-    cd web
+    cd frontend
     npm install
     npm run dev
     ```
