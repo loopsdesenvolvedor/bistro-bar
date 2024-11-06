@@ -95,4 +95,4 @@ Contribuições são bem-vindas! Se você quiser contribuir para o projeto, por 
 
 ---
 
-**Nota:** Se precisar de mais detalhes ou ajuda com a configuração, fique à vontade para abrir uma issue ou enviar um email para [seu-email@dominio.com](mailto:seu-email@dominio.com).
+**Nota:** Se precisar de mais detalhes ou ajuda com a configuração, fique à vontade para abrir uma issue ou enviar um email para [scarabellot.lopes@gmail.com](mailto:scarabellot.lopes@gmail.com).
