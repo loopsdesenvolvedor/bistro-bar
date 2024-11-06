@@ -1,3 +1,4 @@
+![image_13-removebg-preview](https://github.com/user-attachments/assets/36f4a484-2468-44e5-95c3-4dc37d5fe578)
 # Bistrô Bar
 
 **Bistrô Bar** é um aplicativo desenvolvido em React Native, com uma API REST criada em Node.js e seu respectivo ecossistema. Este aplicativo tem como objetivo demonstrar conhecimentos em desenvolvimento mobile e backend, incorporando diversas funcionalidades essenciais para a operação de um restaurante ou bar.
