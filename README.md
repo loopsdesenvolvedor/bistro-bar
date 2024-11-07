@@ -20,7 +20,7 @@
 - **Backend:** Node.js + Express
 - **Banco de Dados:** MySQL com Prisma ORM
 - **Autenticação:** JWT (JSON Web Tokens)
-- **Integração com APIs de Pagamento:** [Informar o serviço de pagamento utilizado, como Stripe, PayPal, etc.]
+- **Integração com APIs de Pagamento:** Stripe/Paypal
 
 ## Instalação e Execução
 
@@ -66,7 +66,7 @@
 
 - **Web (Next.js)**: Para rodar a versão web do projeto, vá até a pasta `web` e execute:
     ```bash
-    cd web
+    cd frontend
     npm install
     npm run dev
     ```
